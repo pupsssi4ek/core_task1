@@ -9,7 +9,7 @@ public class Main {
         int a = calc.plus.apply(1,2);
         int b = calc.minus.apply(1,1);
         int aa = calc.multiply.apply(1,2);
-        int aaa = calc.divide.apply(4,2);
+        int aaa = calc.divide.apply(4,0);
 
         int c = calc.pow.apply(2);
         int x = calc.abs.apply(0);
